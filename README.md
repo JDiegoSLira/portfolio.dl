@@ -1,2 +1,0 @@
-# portifolio.diegolira
-Meu portifólio

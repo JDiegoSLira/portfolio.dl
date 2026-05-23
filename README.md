@@ -1,0 +1,1 @@
+Este portfólio reúne projetos de análise de dados desenvolvidos com foco em transformar informações em insights estratégicos e apoiar a tomada de decisão. Os projetos apresentados utilizam ferramentas como Python, R, Power BI, SQL, Excel para análise, visualização e interpretação de dados.
